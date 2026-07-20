@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/genrated",
+  "textures": {
+    "layer0": "item.diamond_feed.diamond-nugget"
+  }
+
+}

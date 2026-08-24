@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ],
+    [
+      "diamond_feed:diamond_nugget"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

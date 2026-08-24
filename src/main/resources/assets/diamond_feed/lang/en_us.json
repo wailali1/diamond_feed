@@ -1,0 +1,15 @@
+{
+  "item.diamond_feed.diamond_nugget": "Diamond Nugget",
+  "item.diamond_feed.diamond_melon_slice": "Diamond Melon Slice",
+
+  "item.diamond_feed.diamond_apple": "Diamond Apple",
+  "item.diamond_feed.diamond_carrot": "Diamond Carrot",
+
+  "creativemodetab.diamond_feed.diamond_food_items": "Diamond Food Items",
+  "item.minecraft.potion.effect.master_healing": "Master Healing Potion",
+  "item.minecraft.splash_potion.effect.master_healing": "Master Healing Splash Potion",
+  "item.minecraft.lingering_potion.effect.master_healing": "Master Healing Lingering Potion",
+  "item.minecraft.tipped_arrow.effect.master_healing": "Arrow of Master Healing"
+
+
+}

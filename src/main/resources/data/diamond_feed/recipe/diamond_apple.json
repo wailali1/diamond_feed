@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:diamond"
+    ]
+  ],
+  "pattern": [
+    "AAA",
+    "ASA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "diamond"
+    ],
+    "S": [
+      "minecraft:apple"
+    ]
+  },
+  "result": {
+    "id": "diamond_feed:diamond_apple",
+    "count": 1
+  }
+}

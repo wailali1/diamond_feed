@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "ingredients": [
+    [
+      "minecraft:diamond"
+    ]
+  ],
+  "pattern": [
+    "AAA",
+    "ASA",
+    "AAA"
+  ],
+  "key": {
+    "A": [
+      "diamond_feed:diamond_nugget"
+    ],
+    "S": [
+      "minecraft:carrot"
+    ]
+  },
+  "result": {
+    "id": "diamond_feed:diamond_carrot",
+    "count": 1
+  }
+}

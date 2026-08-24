@@ -1,0 +1,6 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "diamond_feed:item/diamond_nugget"
+  }
+}

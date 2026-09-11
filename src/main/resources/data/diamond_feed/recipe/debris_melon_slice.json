@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l": {
+      "item": "minecraft:melon_slice"
+    },
+    "m": {
+      "item": "diamond_feed:debris_nugget"
+    }
+  },
+  "pattern": [
+    "mmm",
+    "mlm",
+    "mmm"
+
+  ],
+  "result": {
+    "count": 1 ,
+    "id": "diamond_feed:debris_melon_slice"
+  }
+}

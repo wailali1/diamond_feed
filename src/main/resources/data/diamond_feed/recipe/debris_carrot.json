@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    },
+    {
+      "item": "diamond_feed:debris_nugget"
+    }
+  ],
+  "result": {
+    "id": "diamond_feed:debris_carrot"
+  }
+}

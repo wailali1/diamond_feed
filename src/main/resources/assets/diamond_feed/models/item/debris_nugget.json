@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "diamond_feed:item/diamond_nugget"
+    "layer0": "diamond_feed:item/debris_nugget"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 3,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "diamond_feed:debris_carrot"
+  },
+  "result": {
+    "id": "diamond_feed:debris_carrot_cooked"
+  }
+}

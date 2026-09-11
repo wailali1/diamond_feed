@@ -3,9 +3,9 @@
 	"id": "diamond_feed",
 	"version": "${version}",
 	"name": "Diamond Apple",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "The mod adds a diamond food to minecraft that give powerful effect when eaten",
 	"authors": [
-		"Me!"
+		"wail001 & abdo2fgl"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",

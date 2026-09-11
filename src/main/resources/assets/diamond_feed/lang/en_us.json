@@ -1,3 +1,46 @@
 {
-"item.diamond_feed.diamond_nugget": "Diamond_nugget"
+ "item.diamond_feed.diamond_nugget": "Diamond Nugget",
+ "item.diamond_feed.debris_nugget": "Netherite Scrap Nugget",
+
+ "item.diamond_feed.diamond_melon_slice": "Diamond Melon Slice",
+ "item.diamond_feed.debris_melon_slice": "Netherite Scrap Melon Slice",
+
+ "item.diamond_feed.diamond_apple": "Diamond Apple",
+ "item.diamond_feed.diamond_carrot": "Diamond Carrot",
+
+ "item.diamond_feed.debris_apple": "Netherite Scrap Apple",
+ "item.diamond_feed.debris_carrot": "Netherite Scrap Carrot",
+ "item.diamond_feed.debris_carrot_cooked": "Cooked Netherite Scrap Carrot ",
+
+ "item.diamond_feed.netherite_apple": "Netherite Apple",
+ "item.diamond_feed.netherite_carrot": "Netherite Carrot",
+
+ "itemgroup.diamond_feed.diamond_food_items": "Diamond Food Items",
+
+ "item.minecraft.potion.effect.diamond_melon_master": "Master Healing Potion",
+ "item.minecraft.splash_potion.effect.diamond_melon_master": "Master Healing Splash Potion",
+ "item.minecraft.lingering_potion.effect.diamond_melon_master": "Master Healing Lingering Potion",
+ "item.minecraft.tipped_arrow.effect.diamond_melon_master": "Arrow of Master Healing",
+
+ "item.minecraft.potion.effect.diamond_melon_master_ii": "Master Healing Potion II",
+ "item.minecraft.splash_potion.effect.diamond_melon_master_ii": "Master Healing Splash Potion II",
+ "item.minecraft.lingering_potion.effect.diamond_melon_master_ii": "Master Healing Lingering Potion II",
+ "item.minecraft.tipped_arrow.effect.diamond_melon_master_ii": "Arrow of Master Healing II",
+
+ "item.minecraft.potion.effect.debris_melon_master": "Master Healing Potion III",
+ "item.minecraft.splash_potion.effect.debris_melon_master": "Master Healing Splash Potion III",
+ "item.minecraft.lingering_potion.effect.debris_melon_master": "Master Healing Lingering Potion III",
+ "item.minecraft.tipped_arrow.effect.debris_melon_master": "Arrow of Master Healing III",
+
+ "item.minecraft.potion.effect.test": "Master of Multiple Power Potion",
+ "item.minecraft.splash_potion.effect.test": "Master of Multiple Power Splash Potion",
+ "item.minecraft.lingering_potion.effect.test": "Master of Multiple Power Lingering Potion",
+ "item.minecraft.tipped_arrow.effect.test": "Arrow of Multiple Power Potion",
+
+ "item.minecraft.potion.effect.test_ii": "Master of Multiple Power Potion II",
+ "item.minecraft.splash_potion.effect.test_ii": "Master of Multiple Power Splash Potion II",
+ "item.minecraft.lingering_potion.effect.test_ii": "Master of Multiple Power Lingering Potion II",
+ "item.minecraft.tipped_arrow.effect.test_ii": "Arrow of Multiple Power II"
+
+
 }

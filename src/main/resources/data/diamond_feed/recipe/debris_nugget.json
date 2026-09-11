@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category":"misc",
+  "key": {
+    "v": {
+      "item": "diamond_feed:debris_nugget"
+    }
+  },
+  "pattern": [
+    "vvv",
+    "vvv",
+    "vvv"
+  ],
+  "result": {
+    "count": 1,
+    "id": "minecraft:netherite_scrap"
+  }
+
+
+
+
+
+}

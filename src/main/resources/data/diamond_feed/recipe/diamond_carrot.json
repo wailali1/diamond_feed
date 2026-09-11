@@ -1,0 +1,21 @@
+{
+"type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "l":{
+      "item": "minecraft:carrot"
+    },
+    "k": {
+      "item": "diamond_feed:diamond_nugget"
+    }
+  },
+  "pattern": [
+    "kkk",
+    "klk",
+    "kkk"
+  ],
+  "result": {
+    "count": 1,
+    "id": "diamond_feed:diamond_carrot"
+  }
+}

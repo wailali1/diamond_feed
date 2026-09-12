@@ -1,0 +1,26 @@
+
+{
+  "item.diamond_feed.diamond_nugget": "Diamond Nugget",
+  "item.diamond_feed.debris_nugget": "Netherite Scrap Nugget",
+
+  "item.diamond_feed.diamond_melon_slice": "Diamond Melon Slice",
+  "item.diamond_feed.debris_melon_slice" : "Netherite Scrap Melon Slice",
+
+  "item.diamond_feed.diamond_apple": "Diamond Apple",
+  "item.diamond_feed.diamond_carrot": "Diamond Carrot",
+
+  "item.diamond_feed.debris_apple": "Netherite Scrap Apple",
+  "item.diamond_feed.debris_carrot": "Netherite Scrap Carrot",
+  "item.diamond_feed.debris_carrot_cooked": "Netherite Scrap Carrot Cooked",
+
+  "item.diamond_feed.netherite_apple": "Netherite Apple",
+  "item.diamond_feed.netherite_carrot": "Netherite Carrot",
+
+  "creativetab.diamond_feed.diamond_food_items": "Diamond Food Items",
+
+
+  "item.minecraft.potion.effect.diamond_melon_master": "Master Healing Potion",
+  "item.minecraft.splash_potion.effect.diamond_melon_master": "Master Healing Splash Potion",
+  "item.minecraft.lingering_potion.effect.diamond_melon_master": "Master Healing Lingering Potion",
+  "item.minecraft.tipped_arrow.effect.diamond_melon_master": "Arrow of Master Healing"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smoking",
+  "experience": 3,
+  "cookingtime": 80,
+  "ingredient": {
+    "item": "diamond_feed:debris_carrot"
+  },
+  "result": {
+    "id": "diamond_feed:debris_carrot_cooked"
+  }
+}
